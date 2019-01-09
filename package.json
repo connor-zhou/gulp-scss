@@ -1,0 +1,30 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "gulp": ""
+  },
+  "devDependencies": {
+    "autoprefixer": "",
+    "del": "",
+    "gulp": "",
+    "gulp-autoprefixer": "",
+    "gulp-changed": "",
+    "gulp-connect": "",
+    "gulp-file-include": "",
+    "gulp-inject": "^4.3.2",
+    "gulp-livereload": "",
+    "gulp-notify": "",
+    "gulp-plumber": "",
+    "gulp-sass": "",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp.spritesmith": "",
+    "http-proxy-middleware": "",
+    "istanbul": "^0.4.5"
+  }
+}
